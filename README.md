@@ -6,5 +6,5 @@ The code examples are Pascal. Amazingly, the code compiles (unchanged) using the
 In addition to the original Pascal, I'm re-working the algorithms in **Scheme, JavaScript**, and **Python**. \
 Hacking Pascal is old school fun!
 
-
+![cover](wirth1.jpg?raw=true)
 
