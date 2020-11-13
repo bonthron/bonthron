@@ -8,3 +8,4 @@ Hacking Pascal is old school fun !
 
 ![cover](wirth1.jpg?raw=true)
 
+[wirth repo](https://github.com/bonthron/wirth1976)
