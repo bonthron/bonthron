@@ -3,7 +3,7 @@ Game entry for GitHub - Itch.io "Game Off" 2020 Game Jam
 
 #### Play it here: [https://www.bonthron.com/moon](https://www.bonthron.com/moon)
 
-![cover](thumb.png?raw=true)
+<img src="screenshot.png" width="300" />
 
 This is an HTML5 game for mobile and desktop.
 It was designed for the "Game Off" annual game jam, where participants have 1 month to create a game based on a secret theme. The theme for this year’s Game Off was "MOONSHOT"
