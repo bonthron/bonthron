@@ -21,3 +21,12 @@ Hacking Pascal is old school fun !
 ![cover](wirth1.jpg?raw=true)
 
 [wirth repo](https://github.com/bonthron/wirth1976)
+
+# FlexibilityOfClosure
+HTML5 puzzle for mobile and desktop: Find a hidden pattern in geometrical configuration.
+
+*Flexibility of Closure* is the cognitive ability to hold a given visual percept or configuration in mind so as to disembed it from other well defined perceptural material.
+
+<img src="flexOnPhone.png" />
+
+#### Play it here: [https://www.bonthron.com/FlexibilityOfClosure](https://www.bonthron.com/FlexibilityOfClosure)
