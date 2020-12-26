@@ -27,6 +27,13 @@ HTML5 puzzle for mobile and desktop: Find a hidden pattern in geometrical config
 
 *Flexibility of Closure* is the cognitive ability to hold a given visual percept or configuration in mind so as to disembed it from other well defined perceptural material.
 
+#### Play: [https://www.bonthron.com/FlexibilityOfClosure](https://www.bonthron.com/FlexibilityOfClosure)
+
 <img src="flexOnPhone.png" />
 
-#### Play it here: [https://www.bonthron.com/FlexibilityOfClosure](https://www.bonthron.com/FlexibilityOfClosure)
+
+**3.1415 contributions this year:**
+<p align="center">
+  <img src="cal.png" width="75%"><br>
+  <img src="tetris.gif" width="300">
+</div>
