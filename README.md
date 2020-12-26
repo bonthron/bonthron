@@ -31,6 +31,8 @@ HTML5 puzzle for mobile and desktop: Find a hidden pattern in geometrical config
 
 <img src="flexOnPhone.png" />
 
+___
+
 
 **3.1415 contributions this year:**
 <p align="center">
