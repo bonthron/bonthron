@@ -10,6 +10,9 @@ It was designed for the "Game Off" annual game jam, where participants have 1 mo
 
 Itch.io: [https://bonthron.itch.io/moon](https://bonthron.itch.io/moon)
 
+___
+
+
 ### Algorithms + Data Structures 1976
 
 Revisiting Niklaus Wirth's classic book. 45 years later- it remains highly relevant. \
@@ -21,6 +24,9 @@ Hacking Pascal is old school fun !
 ![cover](wirth1.jpg?raw=true)
 
 [wirth repo](https://github.com/bonthron/wirth1976)
+
+___
+
 
 # FlexibilityOfClosure
 HTML5 puzzle for mobile and desktop: Find a hidden pattern in geometrical configuration.
