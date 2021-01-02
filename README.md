@@ -1,12 +1,12 @@
 ### For the Moon is Hollow and I Have Touched the Sky
-Game entry for GitHub - Itch.io "Game Off" 2020 Game Jam
+Game entry for GitHub - Itch.io "Game Off" Game Jam
 
 #### Play it here: [https://www.bonthron.com/moon](https://www.bonthron.com/moon)
 
 <img src="screenshot.png" width="300" />
 
 This is an HTML5 game for mobile and desktop.
-It was designed for the "Game Off" annual game jam, where participants have 1 month to create a game based on a secret theme. The theme for this year’s Game Off was "MOONSHOT"
+This is my game entry to <i>Game Off</i> - GitHub's annual game jam, where participants spend one month creating a game based on a secret theme. The theme for this year’s jam was "MOONSHOT".
 
 Itch.io: [https://bonthron.itch.io/moon](https://bonthron.itch.io/moon)
 
