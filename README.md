@@ -6,6 +6,7 @@ Game entry for GitHub - Itch.io "Game Off" Game Jam
 <img src="screenshot.png" width="300" />
 
 This is an HTML5 game for mobile and desktop.
+
 This is my game entry to <i>Game Off</i> - GitHub's annual game jam, where participants spend one month creating a game based on a secret theme. The theme for this year’s jam was "MOONSHOT".
 
 Itch.io: [https://bonthron.itch.io/moon](https://bonthron.itch.io/moon)
