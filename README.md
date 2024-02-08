@@ -1,7 +1,7 @@
 # I've Moved
 to a hacker's forge:
 
-### [sr.ht/~bonthron/](https://sr.ht/~bonthron/) ###
+### [sr.ht/~bonthron/](https://sr.ht/~bonthron) ###
 
 <br>
 
