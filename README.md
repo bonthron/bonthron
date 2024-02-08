@@ -1,14 +1,10 @@
 # I've Moved
 to a hacker's forge:  \
-  \
+
 ### [sr.ht/~bonthron/](https://sr.ht/~bonthron/) ###
-  \
+
 
 ---
-
-
-I'll leave Wirth here, because he's cool... Go find his book.  \
-And a ridiculously simple but useful Emacs hack. \
 
 
 ## Emacs View-Kill
