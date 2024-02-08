@@ -1,7 +1,7 @@
 # I've Moved
 to a hacker's forge:
 
-### [sr.ht/~bonthron/](https://sr.ht/~bonthron) ###
+### [git.sr.ht/~bonthron](https://sr.ht/~bonthron) ###
 
 <br>
 
@@ -12,7 +12,7 @@ to a hacker's forge:
 ## Emacs View-Kill
 [repo](https://github.com/bonthron/view-kill)   \
 Emacs customization to "view the kill ring" without a doubt the most useful thing I've ever written in my life. It's short enough to copy and paste in your dot emacs file.   \
-[view-kill.el](https://www.emacswiki.org/emacs/view-kill.el)
+[www.emacswiki.org/emacs/view-kill.el](https://www.emacswiki.org/emacs/view-kill.el)
 
 
 <br>
