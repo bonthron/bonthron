@@ -1,6 +1,7 @@
 # I've Moved
-to a hacker's forge: \
-[sr.ht/~bonthron/](https://sr.ht/~bonthron/)
+to a hacker's forge:  \
+  \
+**[sr.ht/~bonthron/](https://sr.ht/~bonthron/)**
 
 
 ---
@@ -11,8 +12,8 @@ And a ridiculously simple but useful Emacs hack. \
 
 
 ## Emacs View-Kill
-[repo](https://github.com/bonthron/view-kill)
-Emacs customization to "view the kill ring" without a doubt the most useful thing I've ever written in my life. It's short enough to copy and paste in your dot emacs file. 
+[repo](https://github.com/bonthron/view-kill)   \
+Emacs customization to "view the kill ring" without a doubt the most useful thing I've ever written in my life. It's short enough to copy and paste in your dot emacs file.   \
 [view-kill.el](https://www.emacswiki.org/emacs/view-kill.el)
 
 
@@ -20,7 +21,7 @@ Emacs customization to "view the kill ring" without a doubt the most useful thin
 ## Algorithms + Data Structures 1976
 
 Revisiting Niklaus Wirth's classic book. 45 years later- it remains highly relevant. \
-The code examples are Pascal. Amazingly, the code compiles (unchanged) using the 2020 version of Free Pascal.
+The code examples are Pascal. Amazingly, all the code still compiles unchanged! using the 2020 version of Free Pascal.
 
 In addition to the original Pascal, I'm re-working the algorithms in **Scheme, JavaScript**, and **Python**. \
 Hacking Pascal is old school fun !
