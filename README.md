@@ -15,6 +15,8 @@ Emacs customization to "view the kill ring" without a doubt the most useful thin
 [view-kill.el](https://www.emacswiki.org/emacs/view-kill.el)
 
 
+<br>
+
 
 ## Algorithms + Data Structures 1976
 
@@ -27,4 +29,7 @@ Hacking Pascal is old school fun !
 ![cover](wirth1.jpg?raw=true)
 
 [wirth repo](https://github.com/bonthron/wirth1976)
+
+
+<br>
 
