@@ -1,11 +1,13 @@
 # I've Moved
-to a hacker's forge:  \
+to a hacker's forge:
 
 ### [sr.ht/~bonthron/](https://sr.ht/~bonthron/) ###
 
+<br>
 
 ---
 
+<br>
 
 ## Emacs View-Kill
 [repo](https://github.com/bonthron/view-kill)   \
