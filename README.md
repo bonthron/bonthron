@@ -7,7 +7,8 @@ to a hacker's forge:
 
 ---
 
-## Golf game, my contribution to Jeff Atwood's project to re-create old 1980 games
+## Golf 
+Written in C#. My contribution to Jeff Atwood's project to re-create old 1980 games.   \
 ### [Golf C#](https://github.com/coding-horror/basic-computer-games/blob/main/39_Golf/csharp/Program.cs)   \
 [github.com/coding-horror/basic-computer-games](https://github.com/coding-horror/basic-computer-games)   \
 
